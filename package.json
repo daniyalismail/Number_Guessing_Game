@@ -1,5 +1,5 @@
 {
-  "name": "number_guessing_game-bym.daniyal",
+  "name": "number-guessing-game-bymuhammaddaniyal",
   "version": "1.0.0",
   "description": "A Number Guessing Game In Which User Should Guess a Number Which Should Be Matched By Computer Random Generated Number",
   "main": "index.js",
